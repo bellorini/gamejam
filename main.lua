@@ -20,8 +20,8 @@ function love.load()
     
     -- scene:change('splash') -- o primeiro deve ser esse! e remover os demais!
     -- scene:change('secondsplash') -- para teste
-    -- scene:change('menu') -- para teste
-    scene:change('battlefield')
+     scene:change('menu') -- para teste
+    
 end
 
 function love.draw()
